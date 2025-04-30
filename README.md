@@ -1,2 +1,2 @@
 # Scorbot
-Scorbot robot simulation with Solidworks
+Scorbot simulation with Solidworks
